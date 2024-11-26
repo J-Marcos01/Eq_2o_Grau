@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Eq_2o_Grau</string>
+    <string name="valor_A">Valor  A </string>
+    <string name="valor_B">Valor B</string>
+    <string name="Valor_C">Valor C</string>
+    <string name="Delta">Valor Delta</string>
+    <string name="X1">Valor de X1</string>
+    <string name="X2">Valor de X2</string>
+    <string name="Nao_Possui_Raizes">A equação não possui Raízes</string>
+    <string name="Raiz_unica">A equação só possuí uma Raiz</string>
+    
+</resources>
